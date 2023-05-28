@@ -1,2 +1,4 @@
 # telegram-bot-course
-course create telegram bots python + aiogram https://stepik.org/course/120924/info
+Репозиторий исходного кода по созданию Telegram Bots с использованием Python 3.11 и библиотеки aiogram.
+
+Информация о курсе https://stepik.org/course/120924/info
